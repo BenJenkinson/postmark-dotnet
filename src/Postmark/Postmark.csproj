@@ -126,6 +126,7 @@
     <Compile Include="Model\PostmarkServerList.cs" />
     <Compile Include="Model\PostmarkTaggedTriggerList.cs" />
     <Compile Include="Model\PostmarkTaggedTriggerInfo.cs" />
+    <Compile Include="Model\PostmarkTrackLinksType.cs" />
     <Compile Include="Model\PostmarkBounceWebhookMessage.cs" />
     <Compile Include="PostmarkClient.Async.cs" />
     <Compile Include="Serializers\PostmarkSerializer.cs" />
